@@ -49,6 +49,5 @@ final class ViewController: UIViewController {
             player.play()
         }
     }
-    
 }
 
