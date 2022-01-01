@@ -17,6 +17,7 @@
 		F47C3F81277F6F0600CDD87C /* EggTimerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F47C3F80277F6F0600CDD87C /* EggTimerTests.swift */; };
 		F47C3F8B277F6F0600CDD87C /* EggTimerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F47C3F8A277F6F0600CDD87C /* EggTimerUITests.swift */; };
 		F47C3F8D277F6F0600CDD87C /* EggTimerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F47C3F8C277F6F0600CDD87C /* EggTimerUITestsLaunchTests.swift */; };
+		F47C3F9A277F6F8000CDD87C /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F47C3F99277F6F8000CDD87C /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		F47C3F86277F6F0600CDD87C /* EggTimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EggTimerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F47C3F8A277F6F0600CDD87C /* EggTimerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EggTimerUITests.swift; sourceTree = "<group>"; };
 		F47C3F8C277F6F0600CDD87C /* EggTimerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EggTimerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F47C3F99277F6F8000CDD87C /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				F47C3F6A277F6F0400CDD87C /* ViewController.swift */,
 				F47C3F6C277F6F0400CDD87C /* Main.storyboard */,
 				F47C3F72277F6F0600CDD87C /* Assets.xcassets */,
+				F47C3F99277F6F8000CDD87C /* alarm_sound.mp3 */,
 				F47C3F74277F6F0600CDD87C /* LaunchScreen.storyboard */,
 				F47C3F77277F6F0600CDD87C /* Info.plist */,
 				F47C3F6F277F6F0400CDD87C /* EggTimer.xcdatamodeld */,
@@ -236,6 +239,7 @@
 			files = (
 				F47C3F76277F6F0600CDD87C /* LaunchScreen.storyboard in Resources */,
 				F47C3F73277F6F0600CDD87C /* Assets.xcassets in Resources */,
+				F47C3F9A277F6F8000CDD87C /* alarm_sound.mp3 in Resources */,
 				F47C3F6E277F6F0400CDD87C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
